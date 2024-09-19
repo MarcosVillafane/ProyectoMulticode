@@ -55,4 +55,5 @@ function convert() {
 
     document.getElementById('result').innerText = `Resultado: ${result} ${unitTo}`;
     console.log(`Resultado: ${result} ${unitTo}`);
+    console.log('Conversión exitosa!');
 }
